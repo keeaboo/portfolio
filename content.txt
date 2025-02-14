@@ -1,0 +1,37 @@
+Home:
+- logo and navbar
+- my pic
+- name, web developer
+
+About Me:
+- education
+- experiences
+- value 
+
+What to showcase:
+- specialization
+- skills with metrics
+- projects
+- accomplishments / contributions
+- resume / cv 
+- certifications
+- work experiences
+
+Contact Me:
+- linkedin 
+- sns accounts 
+- email 
+- github
+
+
+
+Features of the site:
+- responsive
+- with animations
+- interactive
+- viewers can comment 
+- has blog section 
+- has devlog section 
+
+Theme:
+- gamified UI/UX
